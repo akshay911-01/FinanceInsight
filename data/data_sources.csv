@@ -2,3 +2,9 @@ source_name,type,url,description
 Tesla Annual Report,pdf,https://ir.tesla.com/financials,Annual report PDF for financials and disclosures
 SEC 10-K - Apple,html,https://www.sec.gov/ix?doc=/Archives/edgar/data/0000320193/10-k.htm,Official 10-K filing
 Reuters - Markets,html,https://www.reuters.com/finance,Financial and market news
+source_name,type,url,description
+Tesla Annual Report,pdf,https://ir.tesla.com/financials,Full annual financial report with notes and statements
+SEC 10-K - Apple,html,https://www.sec.gov/ix?doc=/Archives/edgar/data/0000320193/0000320193230000/10-k.htm,Official 10-K filing
+Reuters - Markets,html,https://www.reuters.com/finance,Daily market news and macro events
+EDGAR Search,html,https://www.sec.gov/edgar/search,Search engine for company filings
+Company Investor Presentation,pdf,https://example.com/investorpres.pdf,Quarterly investor deck
